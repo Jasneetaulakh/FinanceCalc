@@ -18,4 +18,4 @@ A few examples of who would benefit from the code are:
 ## Contact Information
 
 Jasneet Aulakh 
-github.com/Jasneetaulakh
+http://github.com/Jasneetaulakh
